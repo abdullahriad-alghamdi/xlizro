@@ -1,6 +1,6 @@
 Welcome to my world 🗺
 - 👋 Hi, I’m Abdullah
-- 👀 Senior student 🛸  Web developer 🕸 Singer 🎶 Photographer 📸
+- 👀 Senior student 🛸  Web developer 🕸 Photographer 📸
 - 🌱 Be young. Be dope. Run the show 🎪  
 - 📫 How to reach me? : https://campsite.bio/xlizro
 <!---
