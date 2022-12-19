@@ -19,7 +19,7 @@
 
 ### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+```Don't give up on your dreams, or your dreams will give up on you.```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xlizro&icon=3&color=1)](https://visitcount.itsvg.in)
