@@ -1,5 +1,5 @@
 # Welcome to my world 🗺 
-![alena-aenami-lights](https://user-images.githubusercontent.com/61493052/208423569-131466a5-d052-4556-9a45-1d12cb898291.jpg width="100px")
+![alena-aenami-lights](https://user-images.githubusercontent.com/61493052/208423569-131466a5-d052-4556-9a45-1d12cb898291.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=D08315&background=46505000&vCenter=true&multiline=true&width=680&height=100&lines=Hi+%F0%9F%98%8E%2C+I'm+Abdullah+Al-Ghamdi+;+an+enthusiastic+and+passionate+web+developer.+;+Always+learning+and+experimenting+with+new+technologies)](https://git.io/typing-svg)
 <br>
@@ -25,6 +25,8 @@
 ### ✍️ Favorite Quote
 ```"I've learned that dreams can be challenging, can sometimes feel intimidating, and are always worth the SUCCESS they can bring." ```
 
+### Languages
+[`en`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) - English <br /> [![English 100%](https://progress-bar.dev/100)](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) | [`ar`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37) - العربية <br /> [![العربية 100%](https://progress-bar.dev/100)](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37)
 ---
 
   ## 💰 You can help me by Donating
