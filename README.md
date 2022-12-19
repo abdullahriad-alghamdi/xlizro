@@ -18,8 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=xlizro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Favorite Quote
-![hi](g)
-```If you chase anything in life chase the things that get you excited about living. Chase the things that give you hope, happiness and a glimpse of a better life. Chase the things that make you want to be a better person. Chase the things that inspire you to think, create and live joyfully. Chase the things that reinforce in your soul that you can make a difference. Chase the things that make you want to transform your heart from selfish to selfless. When you chase that kind of storm you are chasing rainbows.```
+```"I've learned that dreams can be challenging, can sometimes feel intimidating, and are always worth the SUCCESS they can bring." ```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xlizro&icon=3&color=1)](https://visitcount.itsvg.in)
