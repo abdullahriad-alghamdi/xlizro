@@ -13,6 +13,16 @@
 [`EN`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) <br>
 [`AR`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37)
 
+<!--START_SECTION:waka-->
+
+```text
+Arabic   ███████████████████   100 %
+English  ███████████████░░░░   75 %
+
+```
+
+<!--END_SECTION:waka-->
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xlizro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-alghamdi067) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xlizro) 
 
