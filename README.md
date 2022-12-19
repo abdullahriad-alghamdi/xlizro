@@ -26,7 +26,7 @@
 ```"I've learned that dreams can be challenging, can sometimes feel intimidating, and are always worth the SUCCESS they can bring." ```
 
 ### Languages
-English  [![English 100%](https://progress-bar.dev/100)](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) - [`en`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) 
+English  [![English 100%](https://progress-bar.dev/100)](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) - [`en`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) <br>
 العربية <br /> [![العربية 100%](https://progress-bar.dev/100)](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37) - [`ar`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37)
 ---
 
