@@ -1,5 +1,5 @@
 # Welcome to my world 🗺 
-https://minimalistic-wallpaper.demolab.com/?random
+![alena-aenami-lights](https://user-images.githubusercontent.com/61493052/208423569-131466a5-d052-4556-9a45-1d12cb898291.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=D08315&background=46505000&vCenter=true&multiline=true&width=680&height=100&lines=Hi+%F0%9F%98%8E%2C+I'm+Abdullah+Al-Ghamdi+;+an+enthusiastic+and+passionate+web+developer.+;+Always+learning+and+experimenting+with+new+technologies)](https://git.io/typing-svg)
 <br>
