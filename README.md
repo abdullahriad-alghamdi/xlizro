@@ -26,7 +26,7 @@
 ### ✍️ Favorite Quote
 ```"I've learned that dreams can be challenging, can sometimes feel intimidating, and are always worth the SUCCESS they can bring." ```
 
-#### Languages
+#### 🌍 Languages
 [`EN`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L28) <br>
 [`AR`](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L37)
 
