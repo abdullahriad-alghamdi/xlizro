@@ -6,6 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=xlizro&icon=3&color=1)](https://visitcount.itsvg.in)
 <br>
 # 💫 About Me:
+
 - 🔭 I'm a recent Computer Science graduate looking for a Front-end or software engineering position. I have a passion for problem-solving and I'm constantly striving to improve my skills and knowledge. I'm confident in my ability to quickly pick up new concepts and apply them in practice.<br><br>- 💻 I am a fast learner and I am eager to learn new technologies and I am always open to new challenges. I'm also interested in exploring new technologies and staying up to date with the latest trends in the industry.<br><br>- 🌱 I'm currently learning HTML, CSS, JavaScript and Node.js. <br><br>- 👯 I'm looking to collaborate on programming projects and I'm always open to new ideas and suggestions. <br><br>- ⚡ Fun fact: I loooooove cats 😻 and I'm fascinated by the stars and the wonders of space. I also enjoy watching movies and series in my free time.<br><br>- 💬 Ask me anything related to programming and development! <br><br>- 📫 Reach out to me on GitHub or email me at alghamdiabdullah067@gmail.com.
 
 
