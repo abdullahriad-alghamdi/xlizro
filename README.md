@@ -1,5 +1,8 @@
 # Welcome to my world 🗺
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=D08315&background=46505000&vCenter=true&multiline=true&width=680&height=100&lines=Hi+%F0%9F%98%8E%2C+I'm+Abdullah+Al-Ghamdi+;+an+enthusiastic+and+passionate+web+developer.+;+Always+learning+and+experimenting+with+new+technologies)](https://git.io/typing-svg)
+<br>
+[![](https://visitcount.itsvg.in/api?id=xlizro&icon=3&color=1)](https://visitcount.itsvg.in)
+<br>
 # 💫 About Me:
 🔭 I'm a recent Computer Science graduate looking for a Front-end or software engineering position. I have a passion for problem-solving and I'm constantly striving to improve my skills and knowledge. I'm confident in my ability to quickly pick up new concepts and apply them in practice.<br><br>💻 I am a fast learner and I am eager to learn new technologies and I am always open to new challenges. I'm also interested in exploring new technologies and staying up to date with the latest trends in the industry.<br><br>🌱 I'm currently learning HTML, CSS, JavaScript and Node.js. <br><br>👯 I'm looking to collaborate on programming projects and I'm always open to new ideas and suggestions. <br><br>⚡ Fun fact: I loooooove cats 😻 and I'm fascinated by the stars and the wonders of space. I also enjoy watching movies and series in my free time.<br><br>💬 Ask me anything related to programming and development! <br><br>📫 Reach out to me on GitHub or email me at alghamdiabdullah067@gmail.com.
 
@@ -21,7 +24,6 @@
 ```"I've learned that dreams can be challenging, can sometimes feel intimidating, and are always worth the SUCCESS they can bring." ```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xlizro&icon=3&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xlizro) 
