@@ -20,6 +20,7 @@ English  ███████████████░░░░   75 %
 ## 🌐 Socials: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/xlizro/)
 
 # 💻 Tech Stack:
+![React](https://img.shields.io/badge/React-%23000000.svg?style=flat&logo=react&logoColor=blue) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -30,7 +31,6 @@ English  ███████████████░░░░   75 %
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![React](https://img.shields.io/badge/React-%23000000.svg?style=flat&logo=react&logoColor=blue)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xlizro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
